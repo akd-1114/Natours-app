@@ -1,0 +1,24 @@
+
+.DS_STORE
+app/.DS_STORE
+node_modules/
+.idea/
+yarn.lock
+dist/
+config/
+
+package-lock.json
+test.js
+
+index.html
+app/v1/uploads/*
+reports/
+uploads/
+#Environment Variables
+configServer.js
+.env
+
+logs/
+
+.nvmrc
+.vscode
